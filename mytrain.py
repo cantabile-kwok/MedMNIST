@@ -267,7 +267,7 @@ def main(dataset_name, data_root, output_root, model_name, start_epoch, end_epoc
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-        description='RUN Baseline model of MedMNIST')
+        description='RUN MedMNIST')
     parser.add_argument('--data_name',
                         default='breastmnist',
                         help='subset of MedMNIST',
