@@ -9,6 +9,7 @@ Author  by 郭奕玮、郭子奥
 
 `out`扩展名的文件均为输出日志。可以删除。
 
-代码框架参考https://medmnist.github.io/
+代码框架参考https://github.com/MedMNIST/MedMNIST
 
 我们做了一些自己的改进（阈值、损失函数等）。
+
