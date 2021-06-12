@@ -1,15 +1,0 @@
-  0%|          | 0/1 [00:00<?, ?it/s]100%|██████████| 1/1 [00:28<00:00, 28.14s/it]100%|██████████| 1/1 [00:28<00:00, 28.14s/it]
-*********************CONFIGURATIONS*********************
-Dataset: 	 chestmnist
-Task: 		 multi-label, binary-class
-Model: 		 resnet18
-args: 		 lr= 0.001 batch size= 128 start_epoch= 4
-********************************************************
-==> Preparing data...
-==> Building and training model...
-===Starting from checkpoint with auc=0.66248.pth
-epoch 4 is the best model
-==> Testing model...
-train AUC: 0.99998 ACC: 0.99830
-val AUC: 0.66021 ACC: 0.92398
-test AUC: 0.65949 ACC: 0.92199
